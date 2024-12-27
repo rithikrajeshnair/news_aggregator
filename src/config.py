@@ -1,0 +1,3 @@
+MODEL_NAME = 't5-small'
+BEAM_WIDTH = 5
+MAX_LENGTH = 100
